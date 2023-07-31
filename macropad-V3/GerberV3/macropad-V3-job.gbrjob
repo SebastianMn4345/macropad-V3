@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(7.0.0)"
     },
-    "CreationDate": "2023-07-30T13:50:14-07:00"
+    "CreationDate": "2023-07-30T22:41:47-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "macropad-v2",
-      "GUID": "6d616372-6f70-4616-942d-76322e6b6963",
+      "Name": "macropad-V3",
+      "GUID": "6d616372-6f70-4616-942d-56332e6b6963",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,45 +24,45 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "macropad-v2-F_Cu.gbr",
+      "Path": "macropad-V3-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "macropad-v2-B_Cu.gbr",
+      "Path": "macropad-V3-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "macropad-v2-F_Silkscreen.gbr",
+      "Path": "macropad-V3-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "macropad-v2-B_Silkscreen.gbr",
+      "Path": "macropad-V3-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "macropad-v2-F_Mask.gbr",
+      "Path": "macropad-V3-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "macropad-v2-B_Mask.gbr",
+      "Path": "macropad-V3-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "macropad-v2-Edge_Cuts.gbr",
+      "Path": "macropad-V3-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
